@@ -1,6 +1,14 @@
-# expansiontile
+# Flutter COVID-19 Tracker App
 
-A new Flutter application.
+A Flutter application that track the Coronavirus across the globe.
+
+Get the latest statistics of COVID cases in different countries.
+
+Get the News update regarding Coronavirus.
+
+Self-Assess yourself if you are corona affected or not.
+
+Health Tips and Measures for Preventing Coronavirus. 
 
 ## Getting Started
 
